@@ -81,7 +81,7 @@
     "eslint-plugin-react": "7.18.3",
     "eslint-plugin-react-hooks": "2.4.0",
     "prettier": "1.19.1",
-    "babel-plugin-macros": "2.6.1",
+    "babel-plugin-macros": "2.8.0",
     "babel-plugin-styled-components": "1.10.6"
   }
 }
